@@ -1,0 +1,13 @@
+{
+    "subject": "Invoice Details",
+    "customerno": "1234",
+    "vtiger_purchaseorder": "222",
+    "bill_street": "xxxxxxx",
+    "ship_street": "yyyyyyy",
+    "ship_city": "bangalore",
+    "ship_state": "karnataka",
+    "ship_code": "22222",
+    "ship_country": "India",
+    "qty1": "200.00"
+
+}
